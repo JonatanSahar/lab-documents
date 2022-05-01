@@ -1,0 +1,5 @@
+Study 3.
+The influence of learning through motor engagement on shape representation in visual pathways and motor pathways
+
+In this experiment, we will use fMRI to examine and compare the neural representation of visual shapes during viewing of static shape templates which were learned either through motor engagement (shape production) or through observation only.
+Our hypothesis is that the neural representations motor engagement will facilitate distinction between the neural representation of different shapes. Specifically, we will address the following questions:
